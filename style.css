@@ -1,0 +1,15 @@
+div.relative {
+    position: relative;
+    background-color: #0019F9;
+    width: 686px;
+    height: 464px;
+}
+
+div.absolute {
+    position: absolute;
+    background-color: #F80303;
+    width: 253px;
+    height: 190px;
+    right: 0;
+    bottom: 0;
+}
